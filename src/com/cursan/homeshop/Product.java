@@ -13,7 +13,7 @@ public class Product {
     }
 
     /**
-     * Add the product to a Bill
+      Add the product to a Bill
      */
     public void buy(Bill bill, Integer quantity) {
 
